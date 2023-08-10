@@ -1,0 +1,7 @@
+Flask==2.2.2
+SQLAlchemy-serializer=1.4.1
+requests==2.26.0
+jsonschema==4.10.0
+SQLAlchemy-Utils=0.38.3
+SQLAlchemy~=1.4.41
+Flask-JWT-Extended=4.4.4
