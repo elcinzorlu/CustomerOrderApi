@@ -34,4 +34,7 @@ example.
   
   ![image](https://github.com/elcinzorlu/CustomerOrderApi/assets/107582166/af3d5149-3d2f-42d3-b840-5ae7d69eec8e)
 
+When sent with the id of the order you want to delete, the order registered to that id will be
+deleted. Figure 1.3 shows an example.
+- Methods =DELETE, Url = http://127.0.0.1:5000/delete_customer_order/1
   
